@@ -6,7 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/edgardesher/edgardesher/01.jpg"> **[Comparing RF, XGBoost, and Neural Networks to Predict the Credit Score Classification of Bank Customers](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/edgardesher/edgardesher/blob/ee194ea0430ffc730f7f8093bc75e79c634302bf/01.jpg"> **[Comparing RF, XGBoost, and Neural Networks to Predict the Credit Score Classification of Bank Customers](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project, I worked with a group to classify poor credit scores with the use of Random Forest (RF), eXtreme Gradient Boosting (XGB), and Multilayer Perceptron (MLP) models. We compare baseline models with k-fold cross validation models, and models that undergo feature selection, hyperparameter tuning, and oversampling techniques (SMOTE, BSMOTE, ADASYN).
 
