@@ -23,12 +23,6 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
 #
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
-
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
-
-<br />
  
 ## Core Competencies
 
