@@ -12,15 +12,15 @@ In this project, I worked with a group to classify poor credit scores with the u
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/edgardesher/edgardesher/blob/ee194ea0430ffc730f7f8093bc75e79c634302bf/02.jpg"> **[Rule Mining Using the FIES 2012 Dataset](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+The objective of this project is to generate association rules in the Family Income and Expenditure Survey for the Year 2012.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/edgardesher/edgardesher/blob/ee194ea0430ffc730f7f8093bc75e79c634302bf/03.jpg"> **[Data Visualization Using Plotly for the FIES 2021 Dataset](https://github.com/archd3sai/News-Articles-Recommendation)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+This project was done to create a visualization for the Family Income and Expenditure Survey for the Year 2021.
 
 #
  
