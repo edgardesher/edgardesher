@@ -1,14 +1,14 @@
 # Data Science Portfolio - Edgar Desher Empeño
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic purposes.
 
 - **Email**: [edgar.desher.empeno@gmail.com](edgar.desher.empeno@gmail.com)
 - **LinkedIn**: [ph.linkedin.com/in/edgardesherempeno](https://ph.linkedin.com/in/edgardesherempeno)
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/edgardesher/edgardesher/01.jpg"> **[Comparing RF, XGBoost, and Neural Networks to Predict the Credit Score Classification of Bank Customers](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project, I worked with a group to classify poor credit scores with the use of Random Forest (RF), eXtreme Gradient Boosting (XGB), and Multilayer Perceptron (MLP) models. We compare baseline models with k-fold cross validation models, and models that undergo feature selection, hyperparameter tuning, and oversampling techniques (SMOTE, BSMOTE, ADASYN).
 
 #
 
