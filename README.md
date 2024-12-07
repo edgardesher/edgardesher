@@ -22,7 +22,7 @@ The objective of this project is to generate association rules in the Family Inc
  
 This project was done to create a visualization for the Family Income and Expenditure Survey for the Year 2021.
 
-#
+<br />
  
 ## Core Competencies
 
